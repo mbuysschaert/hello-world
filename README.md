@@ -1,2 +1,4 @@
 # hello-world
-a short description
+Hello world
+
+My name is Maarten. I'm a student at Odisee.
